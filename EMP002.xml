@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+    <empId>EMP002</empId>
+    <name>Mike</name>
+    <dob>2001-02-11</dob>
+    <designation>UI Developer</designation>
+    <department>Dev</department>
+    <department>RnD</department>
+    <salary>20000</salary>
+    <joiningdttm>2018-08-20T02:12:13:232Z</joiningdttm>
+</employee>
+

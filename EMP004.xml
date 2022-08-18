@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+    <empId>EMP004</empId>
+    <name>Marker</name>
+    <dob>1995-09-21</dob>
+    <designation>Backend Developer</designation>
+    <department>Dev</department>
+    <department>RnD</department>
+    <salary>40000</salary>
+    <joiningdttm>2011-04-01T07:12:13:232Z</joiningdttm>
+</employee>
+

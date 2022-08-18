@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+    <empId>EMP003</empId>
+    <name>Clare</name>
+    <dob>1992-07-11</dob>
+    <designation>DBA</designation>
+    <department>Dev</department>
+    <department>RnD</department>
+    <salary>30000</salary>
+    <joiningdttm>2001-05-21T08:12:13:232Z</joiningdttm>
+</employee>
+

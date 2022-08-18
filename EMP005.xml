@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+    <empId>EMP005</empId>
+    <name>Wade</name>
+    <dob>1888-09-21</dob>
+    <designation>AWS Admin</designation>
+    <department>Ops</department>
+    <department>RnD</department>
+    <salary>90000</salary>
+    <joiningdttm>2001-02-22T12:12:13:232Z</joiningdttm>
+</employee>
+

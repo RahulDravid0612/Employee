@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+    <empId>EMP006</empId>
+    <name>Laura</name>
+    <dob>2005-12-01</dob>
+    <designation>QA Manager</designation>
+    <department>QA</department>
+    <department>RnD</department>
+    <salary></salary>
+    <joiningdttm>2017-04-06T11:12:13:232Z</joiningdttm>
+</employee>
+

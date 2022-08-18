@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+    <empId>EMP0011</empId>
+    <name>Jack</name>
+    <dob>1997-04-01</dob>
+    <designation>GCP Admin</designation>
+    <department>Ops</department>
+    <department>Service</department>
+    <salary>60000</salary>
+    <joiningdttm>2011-07-21T10:12:13:232Z</joiningdttm>
+</employee>
+
